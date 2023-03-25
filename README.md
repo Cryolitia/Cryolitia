@@ -3,4 +3,4 @@
 - Transgender girl 🏳️‍⚧️
 - Android developer
 
-[](https://stats.deeptrain.net/user/Cryolitia)
+![](https://stats.deeptrain.net/user/Cryolitia)
