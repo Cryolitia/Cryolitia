@@ -2,6 +2,7 @@
 - Android developer
 - [《世末歌者》 - 乐正绫](https://music.163.com/#/song?id=429460239)
 - lang: cmn/en/de/Kotlin/C#
+- Using Raspberry Pi / Trying NixOS
 - PGP pubkey: 1C3C6547538D7152310C0EEA84DD0C0130A54DF7
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
