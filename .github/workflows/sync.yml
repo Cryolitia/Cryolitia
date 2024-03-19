@@ -35,8 +35,10 @@ jobs:
 
       - name: Update
         run: |
+          cd Cryolitia
           export commit_msg=$(git show -s --format=%s)
           shopt -s extglob
+          cd ..
 
           rm -rf Cryolitia/.github
           cp -rf Cryolitia/* Cryolitia.github.io/
