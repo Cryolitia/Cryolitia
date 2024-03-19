@@ -17,12 +17,6 @@ jobs:
           show-progress: false
           path: Cryolitia
 
-      - name: Setup Git
-        run: |
-          git config --global user.name "$GITHUB_ACTOR"
-          git config --global user.email "$GITHUB_ACTOR@users.noreply.github.com"
-          git show -s
-
       - name: Checkout Remote
         uses: actions/checkout@v4
         with:
@@ -30,6 +24,14 @@ jobs:
           show-progress: false
           ssh-key: ${{secrets.SSH_KEY}}
           path: Cryolitia.github.io
+
+      - name: Setup Git
+        run: |
+          cd Cryolitia.github.io
+          git config --global user.name "$GITHUB_ACTOR"
+          git config --global user.email "$GITHUB_ACTOR@users.noreply.github.com"
+          git show -s
+          cd ..
 
       - name: Update
         run: |
