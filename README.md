@@ -1,5 +1,5 @@
 - Non-binary cyber catgirl 🏳️‍⚧️
-- [Ingress Agent](https://github.com/Cryolitia/Artworks/blob/main/BioCard_2019_v0.2.jpg)/HAM Radio/maimaiDX
+- [Ingress Agent](https://github.com/Cryolitia/Artworks/blob/main/BioCard_2019_v0.2.jpg)/HAM Radio/maimaiDX <image height="16px" font-size="1em" src="https://dxrating.luoling.moe/api/genImage/cryolitia" />
 - Ambience: [《世末歌者》 - 乐正绫](https://music.163.com/#/song?id=429460239)
 - Maintainer of several Linux distros, also maintain the kernel; love NixOS/Arch Linux
 - PGP public key: [`1C3C 6547 538D 7152 310C 0EEA 84DD 0C01 30A5 4DF7`](http://keyserver.ubuntu.com/pks/lookup?op=vindex&search=0x84dd0c0130a54df7)
